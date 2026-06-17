@@ -2,3 +2,4 @@ FBgn_ID,Gene_Name,Function,Stem_Cell_Related,Nutrient_Related,Pathway,Notes
 FBgn0004107,Cdk2,Cell cycle regulator,Yes,Indirect,Cell Cycle,Known regulator of cell proliferation
 FBgn0004197,Serrate,Notch signaling ligand,Yes,Indirect,Notch Signaling,Important for stem cell fate decisions
 FBgn0014135,Branchless,FGF signaling ligand,Yes,Indirect,FGF Signaling,Regulates cell growth and differentiation
+FBgn0014018,Relish,Immune response transcription factor,Potentially,Yes,Imd Pathway,Links stress and cellular regulation
