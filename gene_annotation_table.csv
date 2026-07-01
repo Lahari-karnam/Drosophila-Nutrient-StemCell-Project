@@ -5,3 +5,26 @@ FBgn0014135,Branchless,FGF signaling ligand,Yes,Indirect,FGF Signaling,Regulates
 FBgn0014018,Relish,Immune response transcription factor,Potentially,Yes,Imd Pathway,Links stress and cellular regulation
 FBgn0014869,Phosphoglycerate mutase 1,Glycolysis enzyme,No,Yes,Energy Metabolism,Important in cellular energy production
 FBgn0038473,Nucleostemin 1,Nucleolar protein involved in stem cell proliferation,Yes,Indirect,Stem Cell Regulation,Associated with self-renewal and cell growth
+FBgn0021796,Tor,Central regulator of TOR signaling and nutrient sensing,Yes,Yes,TOR Signaling,Master nutrient-responsive growth regulator,Nutrient_Sensing
+FBgn0041191,Rheb,Small GTPase that activates TORC1 signaling,Indirect,Yes,TOR Signaling,Directly activates TORC1 under nutrient-rich conditions,TOR_Signaling
+FBgn0290397,Tsc1,Negative regulator of TOR signaling,Indirect,Yes,TOR Signaling,Inhibits Rheb during nutrient deprivation,TOR_Signaling
+FBgn0005198,Tsc2,Negative regulator of TOR signaling,Indirect,Yes,TOR Signaling,Partners with Tsc1 to suppress growth,TOR_Signaling
+FBgn0010379,Akt1,Insulin signaling kinase,Yes,Yes,Insulin Signaling,Links InR to TOR signaling and cell growth,Insulin_Signaling
+FBgn0283499,InR,Drosophila insulin receptor,Yes,Yes,Insulin Signaling,Links nutrient availability to stem cell maintenance,Insulin_Signaling
+FBgn0024248,chico,Insulin receptor substrate,Yes,Yes,Insulin Signaling,Mediates insulin/TOR crosstalk,Insulin_Signaling
+FBgn0038197,foxo,Nutrient-stress responsive transcription factor,Yes,Yes,Starvation Response,Regulates starvation response and stem cell maintenance,Starvation_Response
+FBgn0262656,Myc,Growth regulator,Yes,Indirect,Cell Growth,Central hub connecting signaling to stem cell genes,Cell_Growth
+FBgn0283472,S6k,Downstream effector of TOR signaling,Indirect,Yes,Cell Growth,Promotes growth and translation,Cell_Growth
+FBgn0004872,piwi,Germline stem cell maintenance factor,Yes,No,Stem Cell Regulation,Core regulator of GSC self-renewal,Stem_Cell_Core
+FBgn0000158,bam,Differentiation factor,Yes,No,Stem Cell Regulation,Promotes GSC differentiation,Stem_Cell_Core
+FBgn0002962,nanos,Germline stem cell maintenance factor,Yes,No,Stem Cell Regulation,Required for GSC self-renewal,Stem_Cell_Core
+FBgn0004581,bgcn,Differentiation regulator,Yes,No,Stem Cell Regulation,Works with bam to control GSC differentiation,Stem_Cell_Core
+FBgn0003462,Sod1,Antioxidant enzyme,Potentially,No,Oxidative Stress,Cytoplasmic ROS detoxification,Stress_Response
+FBgn0010213,Sod2,Antioxidant enzyme,Potentially,No,Oxidative Stress,Mitochondrial ROS detoxification,Stress_Response
+FBgn0000261,Catalase,Antioxidant enzyme,Potentially,No,Oxidative Stress,Breaks down hydrogen peroxide,Stress_Response
+FBgn0038475,Keap1,Oxidative stress regulator,Potentially,No,Oxidative Stress,Regulates antioxidant response via cnc,Stress_Response
+FBgn0262975,cnc,Oxidative stress transcription factor,Potentially,No,Oxidative Stress,Drives antioxidant gene expression,Stress_Response
+FBgn0010382,CycE,Cell cycle regulator,Yes,Indirect,Cell Cycle,Partners with Cdk2 for G1/S transition,Cell_Cycle
+FBgn0016120,ATPsynD,ATP production,No,Yes,Oxidative Phosphorylation,Cellular energy generation,Metabolism
+FBgn0037913,fabp,Lipid metabolism,No,Yes,Lipid Metabolism,Nutrient sensing and storage,Metabolism
+FBgn0038519,Prx3,Oxidative stress defense,Potentially,Yes,Stress Response,Protects cells from ROS,Stress_Response
